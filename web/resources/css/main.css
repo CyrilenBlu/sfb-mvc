@@ -1,0 +1,58 @@
+p.middle {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+a.submit
+{
+    text-align: right;
+}
+body {
+    background-color: darkgrey;
+}
+
+div.middle
+{
+    font-family:"Comic Sans MS";
+    font-palette: dark;
+}
+
+div.navbar
+{
+    font-size: 10px;
+    color: black;
+    border-style: groove;
+}
+
+div.header
+{
+    font-size: 35px;
+    color: crimson;
+    text-align: center;
+    font-family: "Times New Roman";
+}
+
+div.header p {
+    border: 3px solid black;
+    padding: 10px;
+    background-color: azure;
+}
+
+div.content
+{
+    text-align: right;
+    margin-right: 200px;
+    font-family: "Comic Sans MS";
+    font-color: black;
+    font-size: 25px;
+}
+
+div.content p
+{
+    text-align: right;
+    margin-right: 200px;
+    font-family: "Comic Sans MS";
+    font-color: black;
+    font-size: 15px;
+}
