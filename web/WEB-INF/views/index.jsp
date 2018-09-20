@@ -12,6 +12,8 @@
   </head>
   <body>
   <p class="middle">Hello World test!</p>
+  <a href="/words"><button>Test!</button></a>
+
 
   </body>
 </html>
