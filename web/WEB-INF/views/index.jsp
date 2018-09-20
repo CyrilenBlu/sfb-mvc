@@ -1,3 +1,4 @@
+<%@ taglib prefix="c" uri="http://www.springframework.org/tags" %>
 <%--
   Created by IntelliJ IDEA.
   User: Dell
@@ -8,10 +9,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <link rel="stylesheet" href="../../resources/main.css">
+    <title>HomePage</title>
   </head>
   <body>
-  <p>Hello World test!</p>
+  <p class="middle">Hello World test!</p>
 
   </body>
 </html>
